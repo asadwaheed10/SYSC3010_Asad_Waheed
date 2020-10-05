@@ -10,6 +10,7 @@ sense = SenseHat()
 red = (255, 0, 0)
 green = (0, 255, 0)
 blue = (0, 0, 255)
+purple = (125, 0, 125)
 
 def temperature():
 	temp = sense.get_temperature()
@@ -19,7 +20,7 @@ def temperature():
 	elif temp > 24 and temp < 34:
 		sense.clear(green)
 	elif temp < 24:
-		sense.clear(blue)
+		sense.clear(purple)
 	time.sleep(1)
 	sense.show_message(str(round(temp,2)))
 
@@ -29,5 +30,5 @@ while True:
 		for event in events:
 			if event.direction == 'right':
 				temperature()
-			if event.direction == 'up':
+			if event.direction == 'down':
 				sense.clear()

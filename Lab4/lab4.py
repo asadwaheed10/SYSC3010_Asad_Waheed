@@ -1,6 +1,7 @@
 import http.client
 import urllib.parse
 import time
+
 key = "54CDA6FJF4RCJ92C"
 
 def thingspeak():

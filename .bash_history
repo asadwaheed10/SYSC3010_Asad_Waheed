@@ -560,3 +560,181 @@ ls
 cd Lab4
 nano lab4.py
 sudo shutdown -h now
+cd
+ls
+cd sysc3010
+ls
+cd Lab3
+cd Lab4
+ls
+cd ..
+ls
+cd sysc3010
+ls 
+cd lab2
+ls
+nano lab2-hardware-step3.py
+clear
+cd ..
+clear
+cd sysc3010
+ls
+cd lab2
+ls
+nano lab2-hardware-step3.py
+python lab2-hardware-step3.py
+cd ..
+ls
+cd Lab4
+ls
+nano lab4.py
+python3 lab4.py
+git add .
+git --version
+cd ..
+cd ~
+git config --global user.name "Asad Waheed"
+git config --global user.email "asadwaheed@cmail.carleton.ca"
+git config --list
+cd sysc3010
+cd lab4
+cd Lab4
+git add .
+git add.
+cd ..
+cd ~
+git init
+cd sysc3010
+cd lab4
+cd Lab4
+git init
+git add .
+git commit -m "Completed Lab 4 Task"
+git push origin master
+git remote -v
+cd ~
+git remote add origin https://github.com/asadwaheed10/SYSC3010_Asad_Waheed.git
+git add 
+git add .
+git rm --cached sysc3010/Lab4
+-f
+git rm -f --cached sysc3010/Lab4
+git add .
+git rm --cached sysc3010/Lab4
+git rm --rm -f --cached sysc3010/Lab4
+git rm -f --cached sysc3010/Lab4
+rm 'sysc3010/Lab4'
+git commit -m "Removed folder"
+git push origin master
+git push -f origin master
+ls
+cd sysc3010
+ls
+git remote add origin https://github.com/asadwaheed10/SYSC3010_Asad_NWaheed.git
+cd ..
+mkdir SYSC3010
+ls
+cd SYSC3010
+git remote add origin https://github.com/asadwaheed10/SYSC3010_Asad_NWaheed.git
+ls
+cd sysc3010
+ls
+cd Lab1
+ls
+cd ..
+cd lab2
+ls
+cd ..
+cd Lab-3
+ls
+cd ..
+cd Lab4
+ls
+cd ..
+cd sysc3010
+git remote set-url origin https://github.com/asadwaheed10/SYSC3010_Asad_Waheed.git
+git push -f -u origin master
+cd lab1
+ls
+cd Lab1
+git add .
+git commit -m "Completed Lab 1"
+git push origin master
+cd ..
+git remote set-url origin https://github.com/asadwaheed10/SYSC3010_Asad_Waheed.git
+git push -f -u origin master
+cd sysc3010
+cd Lab1
+git add .
+git commit -m "Completed Lab1"
+git push origin master
+cd ..
+ls
+cd lab2
+ls
+git add .
+git commit -m "Updated changes for Lab2"
+git push origin master
+git pull origin master
+git push origin master
+git push -f origin master
+cd ..
+cd lab1
+cd Lab1
+add .
+git add .
+git commit -m "Completed Lab 1"
+git push origin master
+git pull origin master
+git push -f origin master
+cd ..
+cd lab2
+git add .
+git status
+ls
+git commit -m "Completed Lab 2 with updated changes"
+git add .
+ls
+git commit -m "Completed Lab 2 with updated changes"
+git push -f origin master
+cd ..
+git add .
+cd Lab4
+git add .
+git commit -m "Completed lab 4"
+git push -f origin master
+ls
+cd ..
+cd Lab3
+cd Lab-3
+git add .
+git commit -m "Completed Lab 3 Files"
+git push origin master
+git pull origin master
+git push origin master
+git push -f origin master
+cd ..
+cd Lab2
+cd lab2
+git add .
+git commit -m "Completed Lab 2"
+git push origin master
+git push -f origin master
+sudo shutdown -h now
+mkdir sysclabs
+ls
+cd sysclabs
+git remote add origin https://github.com/asadwaheed10/SYSC3010_Asad_NWaheed.git
+git remote add origin https://github.com/asadwaheed10/SYSC3010_AsadN_Waheed.git
+git init
+git remote add origin https://github.com/asadwaheed10/SYSC3010_AsadN_Waheed.git
+git push -u origin main
+git add .
+git commit -m "initial commit"
+git push -u origin master
+mkdir lab2
+ls
+git add .
+git commit -m "Completed Lab 4"
+git push origin master
+sudo shutdown -h now
